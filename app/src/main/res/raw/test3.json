@@ -1,0 +1,10 @@
+{
+ "id":2,
+ "task":"Где изображен график синуса?",
+ "answerString":"1",
+ "questionType":"Choose_pic",
+ "lesson":null,
+ "variant1":"android.resource://ru.startandroid.develop.test/drawable/sin",
+ "variant2":"android.resource://ru.startandroid.develop.test/drawable/koren",
+ "variant3":"android.resource://ru.startandroid.develop.test/drawable/kotan"
+}

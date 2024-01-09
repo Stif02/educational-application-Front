@@ -1,0 +1,13 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size:15px;
+	margin:15;
+	color:#333;
+	line-height:1.6;
+	background-color: #95e1d3;
+}
+h1{
+	font-size: 30px;
+	font-family: 'Kaushan Script',cursive;
+	font-weight: 700;
+}

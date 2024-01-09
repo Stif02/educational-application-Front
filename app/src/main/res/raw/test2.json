@@ -1,0 +1,10 @@
+{
+  "id":3,
+  "task":"Как перевести на английский слово 'Кошка'?",
+  "answerString":"3",
+  "questionType":"ONE_OUT_OF_FOUR",
+  "lesson":null,
+  "variant1":"SNAKE",
+  "variant2":"RAT",
+  "variant3":"CAT",
+  "variant4":"DEER"}

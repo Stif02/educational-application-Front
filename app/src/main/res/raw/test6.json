@@ -1,0 +1,14 @@
+
+{
+  "id":2,
+  "task":"Под какими цифрами еда?",
+  "answerString":"346",
+  "questionType":"MANY_OUT_OF_MANY",
+  "lesson":null,
+  "variant1":"1:IRON",
+  "variant2":"2:PAPER",
+  "variant3":"3:HONEY",
+  "variant4":"4:MILK",
+  "variant5":"5:SMILE",
+  "variant6":"6:BREAD"
+}
